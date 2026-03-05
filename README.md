@@ -1,5 +1,5 @@
 # myFirstRepo
 Repo for demo task
 
-Alex Baltag
+by Alex Baltag
 
